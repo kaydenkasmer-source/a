@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_build_image" id="pu2+I0$B#h9#OhWp}Fh," disabled-reasons="pxt_automatic_disabled" x="0" y="0"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field></block><block type="basic_show_icon" id="mrj])Og8sTaxbpc8pnnk" disabled-reasons="pxt_automatic_disabled" x="42" y="305"><field name="i">IconNames.Square</field></block></xml>
